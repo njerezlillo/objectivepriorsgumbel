@@ -13,4 +13,4 @@
 1.- "simu-final.R": Contains the programming for the figures in the simulation study.
 
 ## Reference
-[in progress...]
+Moala F, Moala A, Jerez-Lillo N, Ramos P. Selection of objective priors for Gumbel distribution parameters with application to maximum rainfall data.
