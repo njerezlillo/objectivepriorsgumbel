@@ -21,4 +21,7 @@
 5.- "simu3.RData": Contains the chains and geweke tests obtained in scenario 3 of the simulation study.
 
 ## Reference
-Moala F, Moala A, Jerez-Lillo N, Ramos P. Selection of objective priors for Gumbel distribution parameters with application to maximum rainfall data.
+
+[**Selection of objective priors for Gumbel distribution parameters with application to maximum rainfall data.**](https://revstat.ine.pt/index.php/REVSTAT/article/view/648)  
+*Moala F., Moala A., Jerez-Lillo N., P. L. Ramos*   
+REVSTAT-Statistical Journal Accepted (2024) 
