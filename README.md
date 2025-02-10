@@ -24,4 +24,4 @@
 
 [**Selection of objective priors for Gumbel distribution parameters with application to maximum rainfall data.**](https://revstat.ine.pt/index.php/REVSTAT/article/view/648)  
 *Moala F., Moala A., Jerez-Lillo N., P. L. Ramos*   
-REVSTAT-Statistical Journal Accepted (2024) 
+REVSTAT-Statistical Journal, Accepted-September (2024) 
